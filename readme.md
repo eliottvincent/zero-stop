@@ -27,7 +27,7 @@ The `State` enum, declared in the `global.h` and `global_import.h` files, allows
     * GAME_LOST
     * MEMORY_ERROR
 
-The handling of these states is handled by the `current_state` variable, which is of type `State`. This variable therefore changes its value at different times during the game, which allows us to identify the progress of the game.
+    The handling of these states is handled by the `current_state` variable, which is of type `State`. This variable therefore changes its value at different times during the game, which allows us to identify the progress of the game.
 
 - Interrupts
 The various program interrupts are managed in the `interrupts.c` file, which contains the implementations of the various handlers:
