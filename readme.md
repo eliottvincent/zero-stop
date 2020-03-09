@@ -1,4 +1,4 @@
-# Microprocessor architecture project: 0-Stop
+# 0-Stop
 [IMR1 - 2017] Thomas MAHERAULT - Eliott VINCENT
 
 
